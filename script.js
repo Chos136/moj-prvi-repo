@@ -1,1 +1,1 @@
-console.log("Dinamo");
+console.log("Dinampozdrav iz prve vježbe");
