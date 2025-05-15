@@ -1,1 +1,1 @@
-console.log("BOK");
+console.log("Dinamo");
